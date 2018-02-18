@@ -11,7 +11,7 @@ Juego Realizado para un proyecto de la UNET (Universidad Nacional Experimental d
 </ul>
 
 <h3>Algunas Capturas del Juego!</h3>
-![Alt text](/github/Img-1.jpg "Level del Juego")
+![Alt text](/github/1.png "Level del Juego")
 
   
   
