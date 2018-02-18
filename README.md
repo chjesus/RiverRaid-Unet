@@ -11,10 +11,8 @@ Juego Realizado para un proyecto de la UNET (Universidad Nacional Experimental d
 </ul>
 
 <h3>Algunas Capturas del Juego!</h3>
+![Alt text](/github/Img-1.jpg "Level del Juego")
 
-  <p><img src="file:///E:/Proyectos-Git/Java/RiverRaid/RiverRaidUnet/github/Img-2.jpg" title="Intro del Juego" style="max-width:100%"></p>
-  <p><img src="/chjesus/RiverRaidUnet/raw/master/github/Img-2.jpg" title="Menu del Juego" style="max-width:100%"></p>
-  <p><img src="/chjesus/RiverRaidUnet/raw/master/github/Img-2.jpg" title="Vista del Juego" style="max-width:100%"></p>
   
   
   <h4>Otro tipo de Informacion</h4>
