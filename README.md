@@ -11,6 +11,7 @@ Juego Realizado para un proyecto de la UNET (Universidad Nacional Experimental d
 </ul>
 
 <h3>Algunas Capturas del Juego!</h3>
+![img-1](https://user-images.githubusercontent.com/33363443/36357244-c99cd828-14d1-11e8-97e3-1c91a42bb47f.jpg)
   <p><img src="/github/Img-1.jpg title="Intro del Juego" style="max-width:100%"></p>
   <p><img src="chjesus/RiverRaidUnet/raw/master/github/Img-2.jpg title="Menu del Juego" style="max-width:100%"></p>
   <p><img src="chjesus/RiverRaidUnet/raw/master/github/Img-2.jpg title="Vista del Juego" style="max-width:100%"></p>
